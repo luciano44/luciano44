@@ -1,6 +1,5 @@
 ## 👉 [Portfólio](https://luciano44.github.io/)
 ---
-<br>
 
 ## Tecnologias:
 
