@@ -2,8 +2,6 @@
 ---
 <br>
 
-
-
 ## Tecnologias:
 
 - HTML
