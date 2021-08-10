@@ -1,4 +1,21 @@
-### Hi there 👋
+## 👉 [Portfólio](https://luciano44.github.io/)
+---
+<br>
+
+
+
+## Tecnologias:
+
+- HTML
+- CSS
+    - Sass
+- Javascript
+    - Axios
+- nodeJS
+    - Biblioteca mongoDB 
+    - Express
+- npm 
+
 
 <!--
 **luciano44/luciano44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
