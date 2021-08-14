@@ -7,6 +7,7 @@
 - CSS
     - Sass
 - Javascript
+    - Async / Await
     - Axios
 - nodeJS
     - Biblioteca mongoDB 
