@@ -12,7 +12,6 @@
 - nodeJS
     - Express
     - mongoDB
-    - EJS
 - npm
 - Git
 - Figma
