@@ -5,13 +5,11 @@
 
 - HTML
 - CSS
-    - Sass
 - Javascript
-    - Async / Await
-    - Axios
-- nodeJS
-    - Express
-    - mongoDB
+- Sass
+- Node
+- Express
+- mongoDB
 - npm
 - Git
 - Figma
