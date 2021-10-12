@@ -3,15 +3,16 @@
 
 ## Tecnologias:
 
+- Git
 - HTML
 - CSS
-- Javascript
 - Sass
+- Javascript
+- React / React Native
 - Node
 - Express
 - mongoDB
 - npm
-- Git
 - Figma
 
 <!--
