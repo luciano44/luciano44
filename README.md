@@ -15,7 +15,7 @@
 - npm
 - Figma
 
-![Alt text](https://i.ibb.co/9qTHPBy/Logo-Outline-Color.png "LR-Logo")
+![Alt text](https://i.ibb.co/cgVZv38/Logo-Outline-Color.png "LR-Logo")
 
 <!--
 **luciano44/luciano44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
