@@ -16,7 +16,7 @@
 - Figma
 
 <p align="center">
-  <img src="https://i.ibb.co/cgVZv38/Logo-Outline-Color.png" />
+  <img src="https://i.ibb.co/W0zpnpf/Outline-Color.png" />
 </p>
 
 <!--
