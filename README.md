@@ -8,11 +8,12 @@
 - CSS
 - Sass
 - Javascript
+- Next.JS
 - React / React Native
 - Node
 - Express
-- mongoDB
-- npm
+- MongoDB
+- Mongoose
 - Figma
 
 <p align="center">
