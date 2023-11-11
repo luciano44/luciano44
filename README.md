@@ -14,7 +14,10 @@
 - Express
 - MongoDB
 - Mongoose
+
+## Design:
 - Figma
+- Photopea
 
 <p align="center">
   <img src="https://github.com/luciano44/luciano44/assets/42896706/31eab2f1-32d4-4bd7-82e5-71232b4dab36" />
