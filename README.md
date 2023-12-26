@@ -1,10 +1,9 @@
-![](https://komarev.com/ghpvc/?username=luciano44&color=blue)
+[![bg](https://github.com/luciano44/luciano44/assets/42896706/acf1f5b0-111e-439f-888c-990526d0c874)](https://luciano44.github.io)
 
-![bg](https://github.com/luciano44/luciano44/assets/42896706/acf1f5b0-111e-439f-888c-990526d0c874)
-
-Self taught web developer and systems analysis and development graduate.
+Self taught web developer and systems analysis and development graduate, [visit my portfolio](https://luciano44.github.io).
 <br>
 <br>
+
 # Tech Stack
 
 <div>
@@ -43,3 +42,6 @@ Self taught web developer and systems analysis and development graduate.
 # Stats
 
 ![luciano44's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciano44&theme=prussian&show_icons=true)
+
+![](https://komarev.com/ghpvc/?username=luciano44&color=blue)
+
